@@ -20,7 +20,7 @@ In parallel, I self-studied machine learning for molecular systems and quantum a
 ### Quantum Algorithms
 | Repository | Description |
 |---|---|
-| [vqe-quantum-chemistry](https://github.com/riyakayal/vqe-quantum-chemistry) | VQE for molecular ground state energies (H₂, LiH, BeH₂): UCCSD and hardware-efficient ansätze benchmarked against CCSD(T) and FCI |
+[Molecular-Quantum-Algorithms](https://github.com/riyakayal/Molecular-Quantum-Algorithms) | VQE for molecular ground state energies (H₂, LiH, BeH₂): UCCSD and hardware-efficient ansätze benchmarked against CCSD(T) and FCI |
 
 ### Molecular Machine Learning
 | Repository | Description |
