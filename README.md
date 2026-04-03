@@ -9,7 +9,7 @@ IMPRS-RECHARGE Fellow, Max Planck Society
 
 ## About
 
-I am a freshly defended PhD from the Neese group at MPI-KoFo, where my work sat at the boundary between theory development and application in quantum chemistry. On the development side, I implemented UHF CCSDT and CCSDTQ in [ORCA](https://orcaforum.kofo.mpg.de) (versions 6.0 and 6.1) using a Wick's theorem based automated equation generator (Python/C++), and contributed to spin-free multi-reference coupled cluster methods in collaboration with the Reiher group at ETH Zurich. On the application side, I worked on non-covalent interactions, solvent effects, and van der Waals contributions in asymmetric catalysis and photocatalysis, and contributed the computational component of a DNA-encoded library chemistry study (JACS, 2025).
+I am a freshly defended PhD from MPI-KoFo, where my work sat at the boundary between theory development and application in quantum chemistry. On the development side, I implemented UHF CCSDT and CCSDTQ in [ORCA](https://orcaforum.kofo.mpg.de) (versions 6.0 and 6.1) using a Wick's theorem based automated equation generator (Python/C++), and contributed to spin-free multi-reference coupled cluster methods in collaboration with the Reiher group at ETH Zurich. On the application side, I worked on non-covalent interactions, solvent effects, and van der Waals contributions in asymmetric catalysis and photocatalysis, and contributed the computational component of a DNA-encoded library chemistry study (JACS, 2025).
 
 In parallel, I self-studied machine learning for molecular systems and quantum algorithms — building production-level, HPC-scale implementations from scratch.
 
