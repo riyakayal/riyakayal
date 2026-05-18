@@ -33,7 +33,7 @@ In parallel, I self-studied machine learning for molecular systems and quantum a
 ## Skills
 
 **Languages:** Python · Fortran · C++ · Bash  
-**Quantum Chemistry:** ORCA · CFOUR · MRCC · GAMESS · MOLPRO · DALTON · AMBER · Multiwfn · NCIPlot · AutoDock Vina
+**Quantum Chemistry:** ORCA · CFOUR · MRCC · MOLPRO · DALTON · AMBER · Multiwfn · NCIPlot · AutoDock Vina
 **ML:** PyTorch · RDKit · scikit-learn · PennyLane · PySCF  
 **Infrastructure:** HPC clusters · SLURM · CPU parallelisation (OpenMP, multiprocessing)
 
