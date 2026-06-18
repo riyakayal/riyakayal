@@ -1,6 +1,6 @@
 # Riya Kayal
 
-**Computational Chemist | Algorithm Developer | Molecular ML**
+**Computational Chemistry | Method Development | Molecular ML**
 
 PhD, Max-Planck-Institut für Kohlenforschung (MPI-KoFo), Mülheim an der Ruhr, Germany  
 IMPRS-RECHARGE Fellow, Max Planck Society
